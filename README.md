@@ -4,13 +4,13 @@
 
 This Power BI project provides an in-depth analysis of sales data across multiple dimensions such as country, segment, and year. The report is divided into three pages, each offering unique insights through a variety of visualizations and interactive elements.
 ### Dashboard Page
-![Dashboard Preview](https://github.com/JoelJoshi2002/Financial-Data-Set-Visualization/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132821.png)
+![Dashboard Preview](https://github.com/alitanna/Powerbi-Project/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132821.png)
 
 ### Segment Wise Report
-![Segment Wise Report Preview](https://github.com/JoelJoshi2002/Financial-Data-Set-Visualization/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132830.png)
+![Segment Wise Report Preview](https://github.com/alitanna/Powerbi-Project/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132830.png)
 
 ### Country Wise Report
-![Country Wise Report Preview](https://github.com/JoelJoshi2002/Financial-Data-Set-Visualization/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132840.png)
+![Country Wise Report Preview](https://github.com/alitanna/Powerbi-Project/blob/main/Screen%20Shots/Screenshot%202024-08-27%20132840.png)
 ## Pages and Features
 
 ### 1. Dashboard
